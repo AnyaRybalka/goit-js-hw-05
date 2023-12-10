@@ -1,4 +1,4 @@
-<script type="module"></script>
+
 const sortByDescendingFriendCount = (users) => {
   return users.sort((a, b) => b.friends.length - a.friends.length);
 };

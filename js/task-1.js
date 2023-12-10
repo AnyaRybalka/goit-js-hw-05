@@ -1,4 +1,4 @@
-<script type="module"></script>
+
 const getUserNames = (users) => {
   return users.map(user => user.name);
 };
